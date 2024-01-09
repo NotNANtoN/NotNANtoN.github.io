@@ -1,12 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - notnanton
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - notnanton/diffusion-gen
+  - notnanton/lucid-sonic-dreams
+  - notnanton/Roboro
+  - notnanton/aigar
+  - notnanton/AuViMi
+  - notnanton/train2generalize
+
+
+
+   
