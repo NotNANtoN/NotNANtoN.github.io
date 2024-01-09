@@ -6,9 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Anton
 middle_name: O.
 last_name: Wiehe
-email: you@example.com
+email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A page displaying Anton's work, goals and aspirations.
+  A page displaying Anton's work, goals, and aspirations.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
