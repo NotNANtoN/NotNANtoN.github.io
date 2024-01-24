@@ -73,6 +73,13 @@ An intelligent agent in direct interaction and quick in-context learning.
 Set up cognitive architecture with plan to train it and evolve it.
 For PhD: Focus on aspects and study composites in projects.
 
+Concrete Plan:
+1. Get suitable testing ground (robot with good simulation, decent grid world)
+2. Make overview of AGI architectures/plans (Sutton's Alberta Plan, Schmidhuber's Big Net, Le Cun's JEPA, etc). Write paper summarizing key ingredients, distinctions.
+3. Make own plan and describe in detail how modules interact.
+4. Work on most promising module. Current promise: meta-learning with adapters and MoE.
+5. Select up to 3 modules that can be researched on during the PhD and publish them along with the conjoining architectural plan.
+
 ## Cognitive Architecture
 
 ### Concept

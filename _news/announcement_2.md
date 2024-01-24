@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: Joined PHAROS Labs
 date: 2024-01-01 00:00:00-0400
 inline: false
 related_posts: false

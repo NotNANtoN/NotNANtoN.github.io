@@ -6,3 +6,4 @@ related_posts: false
 ---
 
 Looking for PhD. positions! :sparkles: 
+Check out my blog post below for details.
