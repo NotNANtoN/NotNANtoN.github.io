@@ -101,25 +101,26 @@ Learning at different levels:
 
 
 ## Project ideas
-My **awesome** project ideas in _RL_ and _meta-learning_.
+Project ideas in _RL_ and _meta-learning_.
+
+(Legend RL=reinforcement-learning, DL=Deep Learning)
+1. RL Projects:
+-  defining architecture that can think, plan, adapt
+- incorporate knowledge of CLIP or LLMs into agent, using them either as
+knowledge base, its token embeddings as latent space to formulate thoughts, or as generalized algorithms that can be abused in contexts where no language is necessary
+- RL: put planning steps (interaction path of world model + policy) into LSTM memory to let it "think", then plan new paths and finally decide after planning is done.
+-  RL: Hierarchical actor-critic on any domain using quantized/symbolized (VQ-VAE - like) options/sub-tasks
+-  ?RL + Meta Learning: define learnability via meta-learning world model
+2. Meta learning Projects
+3. Other Projcets
+-  Meta-learning: divide dataset in clusters, train neural net using MAML on it, clusters as separate "skills", increase granularity of clusters over training time
+3. Deep Learning Projects
+- DL: learning a training schedule akin to prioritized replay but also focusing on: which samples to reject entirely? Which ones combine well with which other ones to get a clean gradient?
+-  DL: training very large models with mostly frozen weights and only train adapters to modify flow
+-  DL: train music or video model
+-  DL: live-reacting plazmapunk
+
 
 {% details Project 1 %}
 Additional details, where math $$ 2x - 1 $$ and `code` is rendered correctly.
 {% enddetails %}
-
-(Legend RL=reinforcement-learning, DL=Deep Learning)
-1. RL Projects:
-⋅⋅*  defining architecture that can think, plan, adapt
-⋅⋅*  incorporate knowledge of CLIP or LLMs into agent, using them either as
-knowledge base, its token embeddings as latent space to formulate thoughts, or as generalized algorithms that can be abused in contexts where no language is necessary
-⋅⋅* RL: put planning steps (interaction path of world model + policy) into LSTM memory to let it "think", then plan new paths and finally decide after planning is done.
-⋅⋅*  RL: Hierarchical actor-critic on any domain using quantized/symbolized (VQ-VAE - like) options/sub-tasks
-⋅⋅*  ?RL + Meta Learning: define learnability via meta-learning world model
-2. Meta learning Projects
-3. Other Projcets
-⋅⋅*  Meta-learning: divide dataset in clusters, train neural net using MAML on it, clusters as separate "skills", increase granularity of clusters over training time
-3. Deep Learning Projects
-⋅⋅* DL: learning a training schedule akin to prioritized replay but also focusing on: which samples to reject entirely? Which ones combine well with which other ones to get a clean gradient?
-⋅⋅*  DL: training very large models with mostly frozen weights and only train adapters to modify flow
-⋅⋅*  DL: train music or video model
-⋅⋅*  DL: live-reacting plazmapunk
